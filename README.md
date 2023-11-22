@@ -24,9 +24,6 @@ While predicting cardiac risks lies at its core, this project hopes to reach bey
 ## Features
 
 
-## Built With
-
-
 ## Getting Started
 
 
